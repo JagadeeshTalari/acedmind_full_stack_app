@@ -1,0 +1,13 @@
+.place-list {
+  list-style: none;
+  margin: 1rem auto;
+  padding: 0;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.no-Places {
+  padding: 1rem;
+}
+
+
